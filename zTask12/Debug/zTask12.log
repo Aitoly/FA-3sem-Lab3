@@ -1,0 +1,5 @@
+﻿  Task12.cpp
+C:\Users\Xiaomi\Documents\3 семестр\Lab3\zTask12\Calculator\stack.h(74): warning C4715: 'Top_stack': not all control paths return a value
+C:\Users\Xiaomi\Documents\3 семестр\Lab3\zTask12\Calculator\Calculator.h(32): warning C4715: 'PRIOR': not all control paths return a value
+C:\Users\Xiaomi\Documents\3 семестр\Lab3\zTask12\Calculator\Calculator.h(71): warning C4715: 'Simple_Calculator': not all control paths return a value
+  zTask12.vcxproj -> C:\Users\Xiaomi\Documents\3 семестр\Lab3\Debug\zTask12.exe

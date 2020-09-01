@@ -1,0 +1,5 @@
+Ivanov Ivan Ivanovich M8O-211B-18 5 2 3 4 3
+Green Ivan Ivanovich M8O-211B-18 2 2 2 2 2
+Braun Ivan Ivanovich M8O-211B-18 5 3 4 4 3
+Black Ivan Ivanovich M8O-211B-18 1 4 5 4 3
+White Ivan Ivanovich M8O-211B-18 1 2 5 4 3

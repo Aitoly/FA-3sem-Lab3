@@ -1,0 +1,4 @@
+﻿  Task3.cpp
+C:\Users\Xiaomi\Documents\3 семестр\Lab3\Task3\Task3.cpp(132,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Xiaomi\Documents\3 семестр\Lab3\Task3\Task3.cpp(137,20): warning C4018: '<': signed/unsigned mismatch
+  Task3.vcxproj -> C:\Users\Xiaomi\Documents\3 семестр\Lab3\Debug\Task3.exe

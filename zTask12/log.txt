@@ -1,0 +1,2 @@
+I can`t open file "file2.txt"!
+File[file3.txt]Line[1]::Error! Empty line!
